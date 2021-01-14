@@ -14,3 +14,5 @@
 3.	Cannot put a price tag on life.
 4.	Potentially in future, if surveillance cameras are capable and spread everywhere on streets, model can be deployed to that system.
 
+## Object Detection:
+https://github.com/datitran/raccoon_dataset
