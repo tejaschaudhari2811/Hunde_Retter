@@ -1,4 +1,4 @@
-# Hund_Retter
+# Hunde_Retter
 ## Rabies Detection in Dogs using Object Detection
 
 ## Outline:
