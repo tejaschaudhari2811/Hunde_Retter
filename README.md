@@ -16,3 +16,8 @@
 
 ## Object Detection:
 https://github.com/datitran/raccoon_dataset
+
+## Points to start with:
+1. Foaming near mouth.
+2. Jaw Dropping
+3. Agression visible by contraction of nose towards head. https://www.youtube.com/watch?v=Xgblvb5gPgY
